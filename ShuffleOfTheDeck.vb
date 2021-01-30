@@ -7,7 +7,7 @@ Imports System.Threading
 'RCET0265
 'Spring 2021
 'Shuffle of the Deck
-'
+'https://github.com/TaylorHerndon/Shuffle-of-the-Deck
 Module ShuffleOfTheDeck
 
     Declare Function GetAsyncKeyState Lib "user32" (ByVal vkey As Integer) As Boolean
